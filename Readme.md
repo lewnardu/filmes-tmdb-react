@@ -11,4 +11,4 @@ Canal: Hora de Codar
 Objetivando o aprendizado, algumas melhorias em estilos CSS foram aplicadas.
 Também foi aplicado o gerenciamento de State entre componentes Pai/Filho e Filho/Pai na realização do componente Filtro.
 
-OBS: pronão não responsivo, o foco é o aprendizado em Hooks do React e componententes funcionais.
+OBS: projeto não responsivo, o foco é o aprendizado em Hooks do React e componententes funcionais.

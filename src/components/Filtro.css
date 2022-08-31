@@ -1,0 +1,11 @@
+.filtros li {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.filtros li:hover {
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.5s;
+}

@@ -9,4 +9,4 @@ https://youtu.be/XqxUHVVO7-U \
 Canal: Hora de Codar
 
 Objetivando o aprendizado, algumas melhorias em estilos CSS foram aplicadas.
-Também foi aplicado o gerenciamento de state de componente filho para componente pai, na realização do componente Filtro.
+Também foi aplicado o gerenciamento de State entre componentes Pai/Filho e Filho/Pai na realização do componente Filtro.
